@@ -23,7 +23,7 @@ The program allows user to do simple quantum circuit calculation and visualizati
 
 Demonstrations are shwon below
 
-![Demo1](Demo/demo1.jpg "Demo1")
+![Demo1](demo/demo1.jpg "Demo1")
 
-![Demo2](Demo/demo2.jpg "Demo2")
+![Demo2](demo/demo2.jpg "Demo2")
 
